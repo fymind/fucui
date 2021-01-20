@@ -1,2 +1,2 @@
 # fucui
-Simple image board engine
+Image board engine
