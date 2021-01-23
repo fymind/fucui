@@ -21,7 +21,7 @@ include "data/config.php";
 	</div>
 	<div class="link-box">
 	<table>
-   <tr><th>Theme</th><th>Description</th></tr>
+   <tr><th>Topic</th><th>Description</th></tr>
    <tr><td><a href="tb/">Test board /tb/</a></td><td>Default test board</td></tr>
     </table>
 	</div>
